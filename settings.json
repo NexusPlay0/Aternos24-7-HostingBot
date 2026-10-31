@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "0NexusWorld0.aternos.me",
+    "port": 63121,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
